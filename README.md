@@ -26,7 +26,13 @@
 
 
 <strong>My Skills:<strong>
-  
+
+
+<strong>Operating Systemns</strong>  
+![Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows)
+![Mac OS](https://img.shields.io/badge/macos-100000?style=for-the-badge&logo=apple)
+
  
 <strong>Languages</strong>
     
@@ -53,6 +59,7 @@
   ![PHPUnit](https://img.shields.io/badge/phpunit-100000?style=for-the-badge&logo=phpunit&logoColor=green)
   ![Xdebug](https://img.shields.io/badge/xdebug-100000?style=for-the-badge&logo=xdebug&logoColor=green)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  ![PHPStorm](https://img.shields.io/badge/phpstorm-100000?style=for-the-badge&logo=phpstorm&logoColor=purple)
   
 # My Status
 <div>
