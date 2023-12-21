@@ -35,7 +35,7 @@
 ![Mac OS](https://img.shields.io/badge/macos-100000?style=for-the-badge&logo=apple)
 
  
-<strong>Languages</strong>
+<strong>Programming Languages</strong>
     
   ![PHP](https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=#8892bf)
   ![Shell](https://img.shields.io/badge/shell-script-100000?style=for-the-badge&logo=shellscript)
@@ -61,6 +61,13 @@
   ![Xdebug](https://img.shields.io/badge/xdebug-100000?style=for-the-badge&logo=xdebug&logoColor=green)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![PHPStorm](https://img.shields.io/badge/phpstorm-100000?style=for-the-badge&logo=phpstorm&logoColor=purple)
+
+
+<strong>Languages</strong>
+    
+  ![Portuguese](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png)
+  ![English](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/255px-Flag_of_the_United_States.svg.png)
+  
   
 # My Status
 <div>
