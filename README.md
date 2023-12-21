@@ -37,12 +37,14 @@
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   
 
-<strong>Frameworks</strong>
+<strong>Frameworks/CMS</strong>
 
   ![Zend Framework 2](https://img.shields.io/badge/zf2-100000?style=for-the-badge&logo=zend&logoColor=green)
   ![Zend Framework 3](https://img.shields.io/badge/zf3-100000?style=for-the-badge&logo=zend&logoColor=green)
   ![Laminas Framework](https://img.shields.io/badge/laminas-100000?style=for-the-badge&logo=laminas&logoColor=blue)
   ![LSymfiny](https://img.shields.io/badge/symfony-100000?style=for-the-badge&logo=symfony&logoColor=gray)
+  ![CodeIgniter](https://img.shields.io/badge/codeigniter-100000?style=for-the-badge&logo=codeigniter&logoColor=orange)
+  ![WordPress](https://img.shields.io/badge/wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=blue)
 
   
 <strong>Tools</strong>
