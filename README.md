@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Go Lang (DIO) and Blockchain</strong>
+  🕑 I'm Learning: <strong>Go Lang and Blockchain at <a href="dio.me">Dio.me</strong>
 </p>
 
 
