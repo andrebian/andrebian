@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://freeimage.host/i/JAWrPwl" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
       I'm Andre Cardoso. I'm a father, husband, PHP developer, and 3D printing explorer. I'm also the co-author of a book about <a href="https://tddcomphp.andrebian.com" target="_blank">TDD with PHP in Portuguese</a>.
