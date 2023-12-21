@@ -28,7 +28,7 @@
 <strong>My Skills:<strong>
   
  
-    <summary>Languages</summary>
+    <strong>Languages</strong>
     
   ![PHP](https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=#8892bf)
   ![Shell](https://img.shields.io/badge/shell-script-100000?style=for-the-badge&logo=shellscript)
@@ -37,7 +37,7 @@
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   
   
-    <summary>Tools</summary>
+    <strong>Tools</strong>
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![PHPUnit](https://img.shields.io/badge/phpunit-100000?style=for-the-badge&logo=phpunit&logoColor=green)
