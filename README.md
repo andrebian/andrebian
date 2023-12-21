@@ -29,6 +29,7 @@
 
 
 <strong>Operating Systemns</strong>  
+
 ![Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows)
 ![Mac OS](https://img.shields.io/badge/macos-100000?style=for-the-badge&logo=apple)
