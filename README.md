@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <img src="https://iili.io/JAWrPwl.png" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -25,7 +25,7 @@
 </a>
 
 
-<strong>My Skills:<strong>
+## My Skills:
 
 
 <strong>Operating Systemns</strong>  
@@ -69,7 +69,7 @@
   <img src="https://iili.io/JAWsd5g.th.png"> 
   
   
-# My Status
+## My Status
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
