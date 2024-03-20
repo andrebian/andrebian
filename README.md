@@ -28,7 +28,7 @@
 ## My Skills:
 
 
-<strong>Operating Systemns</strong>  
+<strong>Operating Systems</strong>  
 
 ![Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows)
@@ -42,6 +42,7 @@
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![Go](https://img.shields.io/badge/go-100000?style=for-the-badge&logo=go)
   
 
 <strong>Frameworks/CMS</strong>
