@@ -34,13 +34,13 @@
 
  
 <strong>Programming Languages</strong>
-    
+
+  ![Go](https://img.shields.io/badge/go-100000?style=for-the-badge&logo=go)  
   ![PHP](https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=#8892bf)
   ![Shell](https://img.shields.io/badge/shell-script-100000?style=for-the-badge&logo=shellscript)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-  ![Go](https://img.shields.io/badge/go-100000?style=for-the-badge&logo=go)
   
 
 <strong>Frameworks/CMS</strong>
@@ -60,6 +60,7 @@
   ![Xdebug](https://img.shields.io/badge/xdebug-100000?style=for-the-badge&logo=xdebug&logoColor=green)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![PHPStorm](https://img.shields.io/badge/phpstorm-100000?style=for-the-badge&logo=phpstorm&logoColor=purple)
+  ![gRPC](https://img.shields.io/badge/grpc-100000?style=for-the-badge&logo=gRPC&logoColor=purple)
 
 
 <strong>Languages</strong>
