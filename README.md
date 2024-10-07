@@ -35,7 +35,7 @@
  
 <strong>Programming Languages</strong>
 
-  ![Go](https://img.shields.io/badge/go-100000?style=for-the-badge&logo=go)  
+  ![Go](https://img.shields.io/badge/go-100000?style=for-the-badge&logo=go)
   ![PHP](https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=#8892bf)
   ![Shell](https://img.shields.io/badge/shell-script-100000?style=for-the-badge&logo=shellscript)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
