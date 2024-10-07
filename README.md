@@ -3,9 +3,11 @@
 <img src="https://iili.io/JAWrPwl.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      I'm Andre Cardoso. I'm a father, husband, PHP developer, and 3D printing explorer. I'm also the co-author of a book about <a href="https://tddcomphp.andrebian.com" target="_blank">TDD with PHP in Portuguese</a>.
+      I'm Andre Cardoso, Go Lang and PHP Developer. I'm the co-author of a book about <a href="https://tddcomphp.andrebian.com" target="_blank">TDD with PHP in Portuguese</a>.
 </p>
-
+<p align="left"> 
+    I'm a father and husband, and I have a company that makes stuff based on 3D printing.
+</p>
 
 <p align="left">
  <strong>You can find me on:<strong>
