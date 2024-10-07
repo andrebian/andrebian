@@ -6,10 +6,6 @@
       I'm Andre Cardoso. I'm a father, husband, PHP developer, and 3D printing explorer. I'm also the co-author of a book about <a href="https://tddcomphp.andrebian.com" target="_blank">TDD with PHP in Portuguese</a>.
 </p>
 
-<p align="left">
-  🕑 I'm Learning: <strong>Go Lang and Blockchain at <a href="dio.me">Dio.me</strong>
-</p>
-
 
 <p align="left">
  <strong>You can find me on:<strong>
