@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img src="https://iili.io/JAWrPwl.png" min-width="300px" max-width="300px" width="300px" align="right">
-
 <p align="left"> 
       I'm Andre Cardoso, Go Lang and PHP Developer. I'm the co-author of a book about <a href="https://tddcomphp.andrebian.com" target="_blank">TDD with PHP in Portuguese</a>.
 </p>
