@@ -76,7 +76,8 @@
         <!-- <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebian&theme=react&hide_border=false"/> -->
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&layout=compact&theme=react&count_private=true"/>
+            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)
+        <!--<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&layout=compact&theme=react&count_private=true"/>-->
       </td>
     </tr>
   </table>
