@@ -69,24 +69,9 @@
   
 ## My Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrebian&theme=dark)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)
 
-<div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrebian&theme=dark" alt="GitHub Streak" /></a>
-        <!-- <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebian&theme=react&hide_border=false"/> -->
-      </td>
-      <td>
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)
-        <!--<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&layout=compact&theme=react&count_private=true"/>-->
-      </td>
-    </tr>
-  </table>
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)  
+[![Andre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrebian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrebian/andrebian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
