@@ -72,7 +72,8 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebian&theme=react&hide_border=false"/>
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrebian&theme=dark" alt="GitHub Streak" /></a>
+        <!-- <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebian&theme=react&hide_border=false"/> -->
       </td>
       <td>
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&layout=compact&theme=react&count_private=true"/>
