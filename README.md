@@ -63,8 +63,8 @@
 
 <strong>Languages</strong>
 
-  <img src="https://iili.io/JAWitzx.th.png">&nbsp;
-  <img src="https://iili.io/JAWsd5g.th.png"> 
+  <img src="https://iili.io/JAWitzx.th.png" width="64">&nbsp;
+  <img src="https://iili.io/JAWsd5g.th.png" width="64"> 
   
   
 ## My Status
