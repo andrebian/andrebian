@@ -69,8 +69,7 @@
   
 ## My Status
 
-| :-- | :-- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true) | [![Andre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrebian)](https://github.com/anuraghazra/github-readme-stats) |
+[![Andre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrebian)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)
 
 <!--
 **andrebian/andrebian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
