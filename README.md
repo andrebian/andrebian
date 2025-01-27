@@ -68,6 +68,9 @@
   
   
 ## My Status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebian&hide_progress=true)
+
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
